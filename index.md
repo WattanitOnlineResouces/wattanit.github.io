@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 
-landing-title: 'Welcome'
+landing-title: 'Wattanistry'
 description: null
 image: null
 author: null
